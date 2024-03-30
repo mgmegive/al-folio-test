@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mgstingray.github.io/al-folio-test//sitemap.xml
+Sitemap: https://mgmegive.github.io/al-folio-test//sitemap.xml
